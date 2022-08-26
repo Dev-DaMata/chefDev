@@ -1,6 +1,5 @@
 # :woman_cook: <spam style="color: orange">_chefDev_</spam> :man_cook:</spam>
 
-Projeto final do modulo 4 da Resilia Educação, com objetivo de desenvolver uma API Rest de um restaurante. <br>
 Projeto denvolvido em [Node.js](https://nodejs.org/en/) com framework [Express](https://expressjs.com/)
 
 ## 📘 Pré-requisitos
